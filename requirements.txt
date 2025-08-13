@@ -12,3 +12,6 @@ langchain_cohere
 
 # for crossencoderreranker
 sentence-transformers
+
+# for flashranker
+flashrank
