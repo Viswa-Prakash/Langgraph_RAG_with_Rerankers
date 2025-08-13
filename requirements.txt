@@ -5,5 +5,10 @@ langgraph
 langchain-community
 langchain-openai
 pypdf
-langchain_cohere
 faiss-cpu
+
+# for coherereranker
+langchain_cohere
+
+# for crossencoderreranker
+sentence-transformers
