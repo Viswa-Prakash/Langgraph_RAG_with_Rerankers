@@ -18,3 +18,6 @@ flashrank
 
 # contextualreranker
 langchain-contextual
+
+# voyageaireranker
+langchain-voyageai
