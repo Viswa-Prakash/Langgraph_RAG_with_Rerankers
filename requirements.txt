@@ -15,3 +15,6 @@ sentence-transformers
 
 # for flashranker
 flashrank
+
+# contextualreranker
+langchain-contextual
