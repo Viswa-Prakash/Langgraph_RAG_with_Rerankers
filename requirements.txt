@@ -1,0 +1,9 @@
+ipykernel
+python-dotenv
+langchain
+langgraph
+langchain-community
+langchain-openai
+pypdf
+langchain_cohere
+faiss-cpu
